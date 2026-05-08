@@ -11,7 +11,7 @@ const Counter = () => {
         className={styles.cookieBtn}
       >
         <img
-          src="/Cookies.jpg"
+          src="public/Cookies.jpg"
           alt="Image of a Cookie"
           className={styles.cookies}
         />
