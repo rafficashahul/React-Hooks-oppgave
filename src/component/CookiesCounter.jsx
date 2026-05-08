@@ -1,5 +1,6 @@
 import { useState } from "react";
 import styles from "./cookies.module.css";
+import cookieImg from "../assets/Cookies.jpg"
 
 const Counter = () => {
   const [count, setCount] = useState(0);
@@ -11,7 +12,7 @@ const Counter = () => {
         className={styles.cookieBtn}
       >
         <img
-          src="Cookies.jpg"
+          src={cookieImg}
           alt="Image of a Cookie"
           className={styles.cookies}
         />
