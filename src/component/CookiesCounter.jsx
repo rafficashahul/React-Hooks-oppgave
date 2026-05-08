@@ -11,7 +11,7 @@ const Counter = () => {
         className={styles.cookieBtn}
       >
         <img
-          src="/React-Hooks-oppgave/Cookies.jpg"
+          src="/Cookies.jpg"
           alt="Image of a Cookie"
           className={styles.cookies}
         />
