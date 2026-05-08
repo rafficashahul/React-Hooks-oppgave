@@ -1,0 +1,26 @@
+.input input {
+  margin: 1rem 1rem;
+  border: 1px solid #600315;
+  padding: 0.5rem;
+  border-radius: 5px;
+  width: 250px;
+}
+.userCard {
+  border: 1px solid #706d6d;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 5px auto;
+  width: 300px;
+}
+.userBtn {
+  display: block;
+  margin: 1rem auto 2rem auto;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid #600315;
+}
+.userBtn:hover {
+  background-color: #f14466;
+  border: #600315;
+}
